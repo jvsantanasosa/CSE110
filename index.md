@@ -5,9 +5,9 @@
 > This is me
 
 ### Basic information
-***University:*** University of California San Diego
-***Major:*** Computer Science
-***Year:*** ~~Junior~~ Senior
+***University:*** University of California San Diego\
+***Major:*** Computer Science\
+***Year:*** ~~Junior~~ Senior\
 ***Favorite programming languages:*** 
 - C++
 - Python

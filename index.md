@@ -30,6 +30,10 @@ I remember my first lines of code as if it was yesterday (not efficient but nost
 std::cout << "Hello World!";
 std::cout << endl;
 ```
+I am originally from Venezuela, I went back there over the summer. Here are some pictures from that trip!
+[](pictures/Screen Shot 2021-09-27 at 9.41.42 PM.png)
+[](pictures/Screen Shot 2021-09-27 at 9.41.47 PM.png)
+[](pictures/Screen Shot 2021-09-27 at 9.41.51 PM.png)
 
 ### Stay connected!
 If you want to learn more about me, here is [my LinkedIn profile](https://www.linkedin.com/in/josevictorsantana/).

@@ -4,17 +4,17 @@
 ![image](https://media-exp1.licdn.com/dms/image/C5603AQGhBNM_dU4R8w/profile-displayphoto-shrink_400_400/0/1602271803346?e=1638403200&v=beta&t=AGVEIm7WYKbDUnfH1ruYza9wX3YyLDaT1xtCyACQrb8)
 > This is me
 
+##Table of contents
+-[Basic information](https://jvsantanasosa.github.io/CSE110/#basic-information)
+-[Fun Fact](https://jvsantanasosa.github.io/CSE110/#fun-fact)
+-[Stay connected!](https://jvsantanasosa.github.io/CSE110/#stay-connected)
+
 ### Basic information
 ***University:*** University of California San Diego\
 ***Major:*** Computer Science\
 ***Year:*** ~~Junior~~ Senior
-  
-***Favorite programming languages:*** 
-- C++
-- Python
-- Java
 
-***Order I learned them:*** 
+***Favorite programming languages:*** 
 1. C++
 2. Java
 3. Python

@@ -5,9 +5,9 @@
 > This is me
 
 ##Table of contents
--[Basic information](https://jvsantanasosa.github.io/CSE110/#basic-information)
--[Fun Fact](https://jvsantanasosa.github.io/CSE110/#fun-fact)
--[Stay connected!](https://jvsantanasosa.github.io/CSE110/#stay-connected)
+- [Basic information](https://jvsantanasosa.github.io/CSE110/#basic-information)
+- [Fun Fact](https://jvsantanasosa.github.io/CSE110/#fun-fact)
+- [Stay connected!](https://jvsantanasosa.github.io/CSE110/#stay-connected)
 
 ### Basic information
 ***University:*** University of California San Diego\

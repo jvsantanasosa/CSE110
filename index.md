@@ -20,9 +20,9 @@
 3. Python
 
 ***Current missions:***
-[x] Finish Lab 1 for CSE 110
-[ ] Graduate
-[ ] Suceed
+- [x] Finish Lab 1 for CSE 110
+- [ ] Graduate
+- [ ] Suceed
 
 ### Fun fact
 I remember my first lines of code as if it was yesterday (not efficient but nostalgic):
